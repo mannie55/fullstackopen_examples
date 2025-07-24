@@ -48,7 +48,7 @@
     {
       "id": "10",
       "content": "ggg",
-      "important": false
+      "important": true
     },
     {
       "id": "11",
